@@ -8,7 +8,8 @@
         "name_short": "Boaco",
         "area_km": 4177,
         "population": 174682,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Boaco"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Boaco",
+        "code_iso3166_2": "NI-BO"
       },
       "geometry": {
         "type": "Polygon",
@@ -261,7 +262,8 @@
         "name_short": "Managua",
         "population": 2132421,
         "area_km": 3465,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Managua"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Managua",
+        "code_iso3166_2": "NI-MN"
       },
       "geometry": {
         "type": "Polygon",
@@ -570,7 +572,8 @@
         "name_short": "León",
         "area_km": 5138,
         "population": 355779,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Le%C3%B3n"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Le%C3%B3n",
+        "code_iso3166_2": "NI-LE"
       },
       "geometry": {
         "type": "Polygon",
@@ -887,7 +890,8 @@
         "name_short": "Chinandega",
         "area_km": 4822,
         "population": 423062,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Chinandega"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Chinandega",
+        "code_iso3166_2": "NI-CI"
       },
       "geometry": {
         "type": "Polygon",
@@ -1268,7 +1272,8 @@
         "name_short": "Carazo",
         "area_km": 1081,
         "population": 186898,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Carazo"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Carazo",
+        "code_iso3166_2": "NI-CA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1613,7 +1618,8 @@
         "name_short": "Chontales",
         "area_km": 6481,
         "population": 153932,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Chontales"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Chontales",
+        "code_iso3166_2": "NI-CO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1886,7 +1892,8 @@
         "name_short": "Estelí",
         "area_km": 2230,
         "population": 201548,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Estel%C3%AD"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Estel%C3%AD",
+        "code_iso3166_2": "NI-ES"
       },
       "geometry": {
         "type": "Polygon",
@@ -2183,7 +2190,8 @@
         "name_short": "Granada",
         "area_km": 1040,
         "population": 168186,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Granada"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Granada",
+        "code_iso3166_2": "NI-GR"
       },
       "geometry": {
         "type": "Polygon",
@@ -2736,7 +2744,8 @@
         "name_short": "Jinotega",
         "area_km": 9222,
         "population": 331335,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Jinotega"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Jinotega",
+        "code_iso3166_2": "NI-JI"
       },
       "geometry": {
         "type": "Polygon",
@@ -3741,7 +3750,8 @@
         "name_short": "Madriz",
         "area_km": 1708,
         "population": 132459,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Madriz"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Madriz",
+        "code_iso3166_2": "NI-MD"
       },
       "geometry": {
         "type": "Polygon",
@@ -4014,7 +4024,8 @@
         "name_short": "Masaya",
         "area_km": 611,
         "population": 289988,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Masaya"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Masaya",
+        "code_iso3166_2": "NI-MS"
       },
       "geometry": {
         "type": "Polygon",
@@ -4215,7 +4226,8 @@
         "name_short": "Matagalpa",
         "area_km": 6804,
         "population": 469172,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Matagalpa"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Matagalpa",
+        "code_iso3166_2": "NI-MT"
       },
       "geometry": {
         "type": "Polygon",
@@ -4668,7 +4680,8 @@
         "name_short": "Nueva Segovia",
         "area_km": 3491,
         "population": 208523,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Nueva_Segovia"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Nueva_Segovia",
+        "code_iso3166_2": "NI-NS"
       },
       "geometry": {
         "type": "Polygon",
@@ -5421,7 +5434,8 @@
         "name_short": "Rivas",
         "area_km": 2162,
         "population": 156283,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Rivas"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_Rivas",
+        "code_iso3166_2": "NI-RI"
       },
       "geometry": {
         "type": "Polygon",
@@ -6334,7 +6348,8 @@
         "name_short": "Río San Juan",
         "area_km": 7541,
         "population": 95596,
-        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_R%C3%ADo_San_Juan"
+        "wikipedia": "https://es.wikipedia.org/wiki/Departamento_de_R%C3%ADo_San_Juan",
+        "code_iso3166_2": "NI-SJ"
       },
       "geometry": {
         "type": "Polygon",
@@ -7859,7 +7874,8 @@
         "name_short": "RAAN",
         "area_km": 33106,
         "population": 314130,
-        "wikipedia": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Aut%C3%B3noma_del_Atl%C3%A1ntico_Norte"
+        "wikipedia": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Aut%C3%B3noma_del_Atl%C3%A1ntico_Norte",
+        "code_iso3166_2": "NI-AN"
       },
       "geometry": {
         "type": "Polygon",
@@ -8684,7 +8700,8 @@
         "name_short": "RAAS",
         "area_km": 27260,
         "population": 306510,
-        "wikipedia": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Aut%C3%B3noma_de_la_Costa_Caribe_Sur"
+        "wikipedia": "https://es.wikipedia.org/wiki/Regi%C3%B3n_Aut%C3%B3noma_de_la_Costa_Caribe_Sur",
+        "code_iso3166_2": "NI-AS"
       },
       "geometry": {
         "type": "Polygon",
